@@ -1,0 +1,34 @@
+{"CreatedTime": "2019-02-05 10:05:00", "Type": "BUY", "Amount": 500, "BrokerCode": "ABX"}
+{"CreatedTime": "2019-02-05 10:12:00", "Type": "BUY", "Amount": 300, "BrokerCode": "ABX"}
+{"CreatedTime": "2019-02-05 10:20:00", "Type": "BUY", "Amount": 800, "BrokerCode": "ABX"}
+{"CreatedTime": "2019-02-05 10:40:00", "Type": "BUY", "Amount": 900, "BrokerCode": "ABX"}
+{"CreatedTime": "2019-02-05 10:25:00", "Type": "SELL", "Amount": 400, "BrokerCode": "ABX"}
+{"CreatedTime": "2019-02-05 10:48:00", "Type": "SELL", "Amount": 600, "BrokerCode": "ABX"}
+
+
+---WaterMark Demo Sample Messages
+{"CreatedTime": "2019-02-05 10:05:00", "Type": "BUY", "Amount": 500, "BrokerCode": "ABX"}
+{"CreatedTime": "2019-02-05 10:40:00", "Type": "BUY", "Amount": 900, "BrokerCode": "ABX"}
+{"CreatedTime": "2019-02-05 10:20:00", "Type": "BUY", "Amount": 800, "BrokerCode": "ABX"}
+{"CreatedTime": "2019-02-05 10:48:00", "Type": "SELL", "Amount": 600, "BrokerCode": "ABX"}
+
+{"CreatedTime": "2019-02-05 10:14:00", "Type": "SELL", "Amount": 300, "BrokerCode": "ABX"}
+{"CreatedTime": "2019-02-05 10:16:00", "Type": "SELL", "Amount": 300, "BrokerCode": "ABX"}
+
+
+---- Sliding Window Demo Sample Messages
+SET41:{"CreatedTime": "2019-02-05 09:54:00","Reading": 36.2}
+SET41:{"CreatedTime": "2019-02-05 09:59:00","Reading": 36.5}
+SET41:{"CreatedTime": "2019-02-05 10:04:00","Reading": 36.8}
+SET41:{"CreatedTime": "2019-02-05 10:09:00","Reading": 36.2}
+SET41:{"CreatedTime": "2019-02-05 10:14:00","Reading": 36.5}
+SET41:{"CreatedTime": "2019-02-05 10:19:00","Reading": 36.3}
+SET41:{"CreatedTime": "2019-02-05 10:24:00","Reading": 37.7}
+SET41:{"CreatedTime": "2019-02-05 10:29:00","Reading": 37.2}
+
+
+
+
+
+
+
